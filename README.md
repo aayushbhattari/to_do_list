@@ -1,1 +1,1 @@
-# to_do_list
+**To-Do List** is a Python-based application that helps users manage daily tasks by adding, viewing, updating, and deleting to-do items. It uses a menu-driven interface with file handling to save tasks, demonstrating practical use of functions, loops, and basic data structures.
